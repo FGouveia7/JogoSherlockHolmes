@@ -1,0 +1,33 @@
+# NetBeans project files
+nbproject/private/
+nbproject/project.properties
+nbproject/build-impl.xml
+
+# Build output
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Javadoc gerado
+dist/javadoc/
+
+# Ficheiros de cache do NetBeans
+nb-configuration.xml
+*.orig
+
+# Ficheiros compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
